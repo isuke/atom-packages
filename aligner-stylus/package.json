@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-88435-1g09o2b.xcwrejyvi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-88435-1g09o2b.xcwrejyvi/package.tgz",
+        "spec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-88435-1g09o2b.xcwrejyvi/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/apm-install-dir-117118-88435-117rany.xgzrrudi"
+    ]
+  ],
+  "_from": "../d-117118-88435-1g09o2b.xcwrejyvi/package.tgz",
+  "_id": "aligner-stylus@1.1.0",
+  "_inCache": true,
+  "_location": "/aligner-stylus",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-88435-1g09o2b.xcwrejyvi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-88435-1g09o2b.xcwrejyvi/package.tgz",
+    "spec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-88435-1g09o2b.xcwrejyvi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117118-88435-1g09o2b.xcwrejyvi/package.tgz",
+  "_shasum": "39af07b2601b2e8acdb5004862174ca91b7513c4",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-88435-1g09o2b.xcwrejyvi/package.tgz",
+  "_where": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/apm-install-dir-117118-88435-117rany.xgzrrudi",
+  "bugs": {
+    "url": "https://github.com/adrianlee44/atom-aligner-stylus/issues"
+  },
+  "dependencies": {},
+  "description": "Stylus support for aligner",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.9.0"
+  },
+  "homepage": "https://github.com/adrianlee44/atom-aligner-stylus#readme",
+  "keywords": [
+    "aligner",
+    "alignment",
+    "align",
+    "stylus"
+  ],
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "aligner-stylus",
+  "optionalDependencies": {},
+  "providedServices": {
+    "aligner.provider": {
+      "versions": {
+        "1.0.0": "getProvider"
+      }
+    }
+  },
+  "readme": "# aligner-stylus\n\n[Aligner](https://github.com/adrianlee44/atom-aligner) add-on to support Stylus.\n\n## Supported operators\n` ` (whitespace):\n```stylus\nbody\n  display   block\n  position  absolute\n  font-size 12px\n```\n`:`:\n```stylus\n.some-div\n  color:            blue\n  background-color: red\n```\n\n## Installation\nAligner must be installed along with this package. For more information, please check out [Aligner](https://github.com/adrianlee44/atom-aligner)\n\n## Changelog\n- 2017-05-15   v1.1.0   Add support for `:`\n- 2017-05-13   v1.0.1   Update documentation\n- 2016-04-16   v1.0.0   Initial release\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianlee44/atom-aligner-stylus.git"
+  },
+  "version": "1.1.0"
+}
