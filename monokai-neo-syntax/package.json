@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-87545-1jplk49.1rv1ckgldi/package.tgz",
+        "raw": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-1171119-64402-1j2yl8l.9ft1i6n7b9/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-87545-1jplk49.1rv1ckgldi/package.tgz",
-        "spec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-87545-1jplk49.1rv1ckgldi/package.tgz",
+        "rawSpec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-1171119-64402-1j2yl8l.9ft1i6n7b9/package.tgz",
+        "spec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-1171119-64402-1j2yl8l.9ft1i6n7b9/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/apm-install-dir-117118-87545-l0yk7s.2ulxzjjor"
+      "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/apm-install-dir-1171119-64402-1mmbf6x.8qmgp0hpvi"
     ]
   ],
-  "_from": "../d-117118-87545-1jplk49.1rv1ckgldi/package.tgz",
-  "_id": "monokai-neo-syntax@1.3.1",
+  "_from": "../d-1171119-64402-1j2yl8l.9ft1i6n7b9/package.tgz",
+  "_id": "monokai-neo-syntax@1.3.2",
   "_inCache": true,
   "_location": "/monokai-neo-syntax",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-87545-1jplk49.1rv1ckgldi/package.tgz",
+    "raw": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-1171119-64402-1j2yl8l.9ft1i6n7b9/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-87545-1jplk49.1rv1ckgldi/package.tgz",
-    "spec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-87545-1jplk49.1rv1ckgldi/package.tgz",
+    "rawSpec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-1171119-64402-1j2yl8l.9ft1i6n7b9/package.tgz",
+    "spec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-1171119-64402-1j2yl8l.9ft1i6n7b9/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117118-87545-1jplk49.1rv1ckgldi/package.tgz",
-  "_shasum": "e16757fa2adfebf563892ec03b6b96c4d9edab37",
+  "_resolved": "file:../d-1171119-64402-1j2yl8l.9ft1i6n7b9/package.tgz",
+  "_shasum": "1dd7bf44a4c9cf9c45483dc503259ae68dc61fce",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-117118-87545-1jplk49.1rv1ckgldi/package.tgz",
-  "_where": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/apm-install-dir-117118-87545-l0yk7s.2ulxzjjor",
+  "_spec": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/d-1171119-64402-1j2yl8l.9ft1i6n7b9/package.tgz",
+  "_where": "/private/var/folders/qn/bk6jrb1n2hz2b4rlq_pwz_4r0000gn/T/apm-install-dir-1171119-64402-1mmbf6x.8qmgp0hpvi",
   "bugs": {
     "url": "https://github.com/skylerlee/monokai-neo-syntax/issues"
   },
@@ -61,5 +61,5 @@
     "url": "git+https://github.com/skylerlee/monokai-neo-syntax.git"
   },
   "theme": "syntax",
-  "version": "1.3.1"
+  "version": "1.3.2"
 }
